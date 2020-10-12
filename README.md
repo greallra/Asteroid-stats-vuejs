@@ -1,4 +1,3 @@
-# scribless-test
 
 ## Project setup
 ```
